@@ -1,0 +1,9 @@
+<launch>
+<!-- launch_file -->
+
+<node		pkg="final_min"		type="final"
+name="topic_publisher" output="screen">
+
+	</node>
+
+</launch>
