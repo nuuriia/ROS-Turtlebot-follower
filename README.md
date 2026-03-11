@@ -17,7 +17,8 @@ The project is structured as a standard ROS Catkin package named final_min:
 - Informe.pdf: Detailed documentation explaining the mathematical approach, logic diagrams, and experimental results.
 
 
-How to Run
+How to Run.
+
 Setup Workspace:
 Clone this repository into your catkin_ws/src folder.
   Bash
